@@ -1,0 +1,6 @@
+C:\Users\K\AppData\Local\Temporary Projects\Cwiczenia1\bin\Debug\Cwiczenia1.exe
+C:\Users\K\AppData\Local\Temporary Projects\Cwiczenia1\bin\Debug\Cwiczenia1.pdb
+C:\Users\K\AppData\Local\Temporary Projects\Cwiczenia1\obj\x86\Debug\Cwiczenia1.exe
+C:\Users\K\AppData\Local\Temporary Projects\Cwiczenia1\obj\x86\Debug\Cwiczenia1.pdb
+C:\Users\K\Desktop\Cwiczenia1\Cwiczenia1\Cwiczenia1\obj\x86\Debug\Cwiczenia1.exe
+C:\Users\K\Desktop\Cwiczenia1\Cwiczenia1\Cwiczenia1\obj\x86\Debug\Cwiczenia1.pdb
